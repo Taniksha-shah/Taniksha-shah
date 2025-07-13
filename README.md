@@ -1,4 +1,9 @@
 ## Hi there 👋
+### 🏅 HackerRank Badges
+
+[![C++ Badge](https://hrcdn.net/fcore/assets/badges/cpp-739b350881.svg)](https://www.hackerrank.com/tanikshashah2409)
+[![C Badge](https://hrcdn.net/fcore/assets/badges/c-d1985901e6.svg)](https://www.hackerrank.com/tanikshashah2409)
+[![Java Badge](https://hrcdn.net/fcore/assets/badges/java-9d05b1f559.svg)](https://www.hackerrank.com/tanikshashah2409)
 
 <!--
 **Taniksha-shah/Taniksha-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
