@@ -10,10 +10,11 @@
 
 ---
 
-### <span style="color:FF69B4">🎯 About Me</span> 
-```diff
-- 👩‍💻 B.Tech Computer Engineering Student
-- 🛸 Aspiring Aerospace + Robotics Engineer
-- 🎮 Currently coding in C++ | Learning ESP32 + Web Dev
-- 🌌 Dreaming under stars, building in C++
+<h3 align="center" style="color:#FF69B4;">🎯 About Me</h3>
 
+<p align="center" style="color:#FF69B4; font-family:'Courier New', monospace;">
+  👩‍💻 B.Tech Computer Engineering Student <br>
+  🛸 Aspiring Aerospace + Robotics Engineer <br>
+  💖 Passionate about C++, ESP32, and creative tech <br>
+  🌌 Dreaming under stars, building in C++
+</p>
