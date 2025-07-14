@@ -10,7 +10,7 @@
 
 ---
 
-### 🎯 About Me
+### <span style="color:FF69B4">🎯 About Me</span> 
 ```diff
 - 👩‍💻 B.Tech Computer Engineering Student
 - 🛸 Aspiring Aerospace + Robotics Engineer
