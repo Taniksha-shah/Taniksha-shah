@@ -10,9 +10,9 @@
 
 ---
 
-<h3 align="center" style="color:#FF69B4;">🎯 About Me</h3>
+<h3 align="center" style="color:FF69B4;">🎯 About Me</h3>
 
-<p align="center" style="color:#FF69B4; font-family:'Courier New', monospace;">
+<p align="center" style="color:FF69B4; font-family:'Courier New', monospace;">
   👩‍💻 B.Tech Computer Engineering Student <br>
   🛸 Aspiring Aerospace + Robotics Engineer <br>
   💖 Passionate about C++, ESP32, and creative tech <br>
