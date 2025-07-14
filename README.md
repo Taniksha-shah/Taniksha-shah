@@ -23,3 +23,6 @@
 
 <span style="color:#FF69B4">⚔️ GitHub Stats: My Battle Records</span>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Taniksha-shah&show_icons=true&theme=maroongold&title_color=FF69B4&text_color=FF69B4&icon_color=FF69B4&bg_color=000000" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Taniksha-shah&theme=maroongold&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&background=000000" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taniksha-shah&layout=compact&theme=maroongold&title_color=FF69B4&text_color=FF69B4&bg_color=000000" width="50%" /> </p>
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![GitHub followers](https://img.shields.io/github/followers/Taniksha-shah?label=Follow&style=social)
