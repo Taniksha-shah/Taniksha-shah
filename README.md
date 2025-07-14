@@ -18,3 +18,5 @@
   💖 Passionate about C++, ESP32, and creative tech <br>
   🌌 Dreaming under stars, building in C++
 </p>
+
+<p align="center"> <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="200" /> <img src="https://media.giphy.com/media/l0HlQ7LRalvnGzAOc/giphy.gif" width="200" /> <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="200" /> </p>
