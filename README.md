@@ -14,7 +14,7 @@
 
 <p align="center" style="font-family:'Courier New', monospace;">
   👩‍💻 B.Tech Computer Engineering Student <br>
-  🛸 Aspiring Aerospace + Robotics Engineer <br>
+  🛸 Aspiring Robotics Engineer <br>
   💖 Passionate about C++, ESP32, creative tech<br>
   🌌 Dreaming under stars, building in C++ <br>
   🎮 Developing games as hobby
