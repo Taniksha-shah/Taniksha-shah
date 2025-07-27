@@ -22,7 +22,8 @@
 
 ### 🐍 Contribution Graph
 
-![Snake animation](https://github.com/Taniksha-shah/Taniksha-shah/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Taniksha-shah/Taniksha-shah/output/github-contribution-grid-snake.svg)
+
 
 <p align="center"> <img src="https://img.shields.io/badge/C%2B%2B-FF69B4?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/ESP32-FF69B4?style=for-the-badge&logo=espressif&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-FF69B4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> </p>
 
