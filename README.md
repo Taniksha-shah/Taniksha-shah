@@ -3,11 +3,11 @@
 <!-- ========================================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&color=7DF9FF&center=true&vCenter=true&width=900&height=50&lines=Hey+there%2C+I'm+Taniksha+Shah+%F0%9F%91%8B;Building+AI+models+%2B+game+worlds;Data+Science+%7C+Machine+Learning+%7C+Creative+Engineering;Code.+Analyze.+Create.+Repeat." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&color=C71585&center=true&vCenter=true&width=900&height=50&lines=Hey+there%2C+I'm+Taniksha+Shah+%F0%9F%91%8B;Building+AI+models+%2B+game+worlds;Data+Science+%7C+Machine+Learning+%7C+Creative+Engineering;Code.+Analyze.+Create.+Repeat." />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Data%20%7C%20ML%20%7C%20AI&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C71585,50:FF1493,100:FF69B4&height=180&section=header&text=Data%20%7C%20ML%20%7C%20AI&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@
 
 <p align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Taniksha-shah&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Taniksha-shah&theme=radical&hide_border=true&border_radius=15" width="48%" />
 </p>
 
 ---
